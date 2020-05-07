@@ -1,0 +1,11 @@
+C:\Users\CANBERK\source\repos\BugraBogaz\BugraBogaz\bin\Debug\netcoreapp3.1\BugraBogaz.exe
+C:\Users\CANBERK\source\repos\BugraBogaz\BugraBogaz\bin\Debug\netcoreapp3.1\BugraBogaz.deps.json
+C:\Users\CANBERK\source\repos\BugraBogaz\BugraBogaz\bin\Debug\netcoreapp3.1\BugraBogaz.runtimeconfig.json
+C:\Users\CANBERK\source\repos\BugraBogaz\BugraBogaz\bin\Debug\netcoreapp3.1\BugraBogaz.runtimeconfig.dev.json
+C:\Users\CANBERK\source\repos\BugraBogaz\BugraBogaz\bin\Debug\netcoreapp3.1\BugraBogaz.dll
+C:\Users\CANBERK\source\repos\BugraBogaz\BugraBogaz\bin\Debug\netcoreapp3.1\BugraBogaz.pdb
+C:\Users\CANBERK\source\repos\BugraBogaz\BugraBogaz\obj\Debug\netcoreapp3.1\BugraBogaz.csprojAssemblyReference.cache
+C:\Users\CANBERK\source\repos\BugraBogaz\BugraBogaz\obj\Debug\netcoreapp3.1\BugraBogaz.AssemblyInfoInputs.cache
+C:\Users\CANBERK\source\repos\BugraBogaz\BugraBogaz\obj\Debug\netcoreapp3.1\BugraBogaz.AssemblyInfo.cs
+C:\Users\CANBERK\source\repos\BugraBogaz\BugraBogaz\obj\Debug\netcoreapp3.1\BugraBogaz.dll
+C:\Users\CANBERK\source\repos\BugraBogaz\BugraBogaz\obj\Debug\netcoreapp3.1\BugraBogaz.pdb
